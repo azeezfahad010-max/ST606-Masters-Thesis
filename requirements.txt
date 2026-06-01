@@ -1,0 +1,7 @@
+ultralytics>=8.2.0
+supervision>=0.21.0
+opencv-python>=4.9.0
+numpy>=1.26.0
+torch>=2.2.0
+torchvision>=0.17.0
+scikit-learn>=1.4.0

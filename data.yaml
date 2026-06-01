@@ -1,0 +1,16 @@
+path: /Users/azeezuddinmohammed/Downloads/archive/football_players_detection/football_players_detection
+
+train: train/images
+val: valid/images
+test: test/images
+
+names:
+  0: football
+  1: player
+
+roboflow:
+  workspace: augmented-startups
+  project: football-player-detection-kucab
+  version: 8
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/augmented-startups/football-player-detection-kucab/dataset/8
