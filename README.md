@@ -18,13 +18,14 @@ Files:
 
 Setup:
 
-You will need: Python 3.10+, and a YOLO .pt weights file trained on football footage.
-
-Install dependencies:
+- You will need: Python 3.10+, and a YOLO .pt weights file trained on football footage.
+- Download best.pt and sample.mp4 from [the Google Drive folder ](https://drive.google.com/drive/folders/1QOsNy0KLvAHMYuvnS3R-d1VorXe4PnHW?usp=share_link) and place both files in the project folder which contains all the codes.
+  
+- Install dependencies:
 
 bashpip install -r requirements.txt
 
-Running the Code:
+- Running the Code:
 
 1.Full pipeline (produces annotated video):
 
@@ -48,8 +49,8 @@ Box colourMeaning:
 
 Dependencies
 
-Ultralytics — YOLO detection
-Supervision — tracking utilities
-OpenCV — video processing
-scikit-learn — team colour clustering
-PyTorch — model runtime
+- Ultralytics — YOLO detection
+- Supervision — tracking utilities
+- OpenCV — video processing
+- scikit-learn — team colour clustering
+- PyTorch — model runtime
