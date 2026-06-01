@@ -19,7 +19,7 @@ Files:
 Setup:
 
 - You will need: Python 3.10+, and a YOLO .pt weights file trained on football footage.
-- Download best.pt and sample.mp4 from [the Google Drive folder ](https://drive.google.com/drive/folders/1QOsNy0KLvAHMYuvnS3R-d1VorXe4PnHW?usp=share_link) and place both files in the project folder which contains all the codes.
+- Download trained_YOLO.pt and sample.mp4 from [the Google Drive folder ](https://drive.google.com/drive/folders/1QOsNy0KLvAHMYuvnS3R-d1VorXe4PnHW?usp=share_link) and place both files in the project folder which contains all the codes.
   
 - Install dependencies:
 
